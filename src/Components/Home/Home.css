@@ -1,0 +1,20 @@
+.row{
+    background-color:rgb(6, 6, 102);
+}
+.header{
+    text-align: center;
+    color:white;
+    display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width:100%;
+     
+}
+.image-container{
+    background-color: white;
+}
+
+ .h1 { 
+    text-align: center;
+    display: block;
+ }
